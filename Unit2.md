@@ -50,7 +50,7 @@ DNS Spoofing - Assign different IP addresses for a service that redirects user t
 - Network Access layer [Data link, Fiber, MAC, Ethernet, NIC, Wires]
   - Physical layer, delivers packets from one NIC (Network Interface Card) to another (hop)
   - Each NIC has a unique MAC (Media Access Control) Address [Used for local hops]
-  - Packet uses **metadata ** for routing info
+  - Packet uses **metadata** for routing info
 
 - LAN -> Local Area Network 
 - AS --> Autonomous systems 
